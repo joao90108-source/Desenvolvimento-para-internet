@@ -3,7 +3,7 @@ let btCalcular = document.querySelector("#btCalcular")
 let h3ValorCotacao = document.querySelector("#h3ValorCotacao")
 
 function calcularCotacao(){
-    let valorCotacao = Number(inputCotacao.value)
+     valorCotacao = Number(inputCotacao.value)
     
     //calcular 1%
     let valor1porcento = valorCotacao + (valorCotacao * (1/100));
