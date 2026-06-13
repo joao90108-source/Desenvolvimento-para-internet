@@ -1,0 +1,120 @@
+body {
+    text-align: center;
+}
+
+
+.Ex1{
+color: #ffffff;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 15px;
+}
+
+.Ex2{
+color: #ffffff;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 15px;
+}
+
+.Ex3{
+color: #ffffff;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 15px;
+}
+
+.Ex4{
+color: #ffffff;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 15px;
+}
+
+.Ex5{
+color: #ffffff;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 15px;
+}
+
+.Ex6{
+color: #ffffff;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 15px;
+}
+
+.Ex7{
+color: #ffffff;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 15px;
+}
+
+.Ex8{
+color: #ffffff;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 15px;
+}
+
+label {
+    margin-left: 15px;
+}
+
+input {
+    margin-right: 15px;
+}
+
+button {
+    margin-left: 15px;
+}
+
+.exercicio {
+    background-color: #1a77b5;
+    padding: 25px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.exercicio2 {
+    background-color: rgb(67, 75, 161);
+    padding: 25px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.exercicio3 {
+    background-color: rgb(10, 211, 204);
+    padding: 25px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.exercicio4 {
+    background-color: rgb(51, 184, 75);
+    padding: 25px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.exercicio5 {
+    background-color: rgb(168, 30, 175);
+    padding: 25px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.exercicio6 {
+    background-color: rgb(206, 209, 14);
+    padding: 25px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.exercicio7 {
+    background-color: rgb(255, 0, 162);
+    padding: 25px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.exercicio8 {
+    background-color: rgb(161, 67, 67);
+    padding: 25px;
+    margin: 20px;
+    border-radius: 10px;
+}
